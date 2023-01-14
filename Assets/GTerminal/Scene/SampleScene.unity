@@ -656,7 +656,7 @@ PrefabInstance:
       objectReference: {fileID: 26120464}
     - target: {fileID: 4971110647819577328, guid: 84f675df9572c8f45bda63e30cbd60d8, type: 3}
       propertyPath: Prompt
-      value: admin@localhost:~$
+      value: 'admin@localhost:~$ '
       objectReference: {fileID: 0}
     - target: {fileID: 4971110647819577328, guid: 84f675df9572c8f45bda63e30cbd60d8, type: 3}
       propertyPath: canvas
